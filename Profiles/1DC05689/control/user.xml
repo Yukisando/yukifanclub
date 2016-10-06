@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rage__ControlInput__ControlSettings>
+  <Mappings>
+    <Item>
+      <Input>INPUT_VEH_FLY_YAW_LEFT</Input>
+      <Source>IOMS_KEYBOARD</Source>
+      <Parameters>
+        <Item>KEY_NUMPAD4</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_VEH_FLY_YAW_RIGHT</Input>
+      <Source>IOMS_KEYBOARD</Source>
+      <Parameters>
+        <Item>KEY_NUMPAD6</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_VEH_FLY_ROLL_LEFT_ONLY</Input>
+      <Source>IOMS_KEYBOARD</Source>
+      <Parameters>
+        <Item>KEY_A</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_VEH_FLY_ROLL_RIGHT_ONLY</Input>
+      <Source>IOMS_KEYBOARD</Source>
+      <Parameters>
+        <Item>KEY_D</Item>
+      </Parameters>
+    </Item>
+  </Mappings>
+</rage__ControlInput__ControlSettings>
